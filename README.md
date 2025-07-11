@@ -26,9 +26,10 @@
 
 Here are some stellar projects I’ve worked on:
 
-- **[Star Mapper](#)**: A visualization tool to map constellations from data.
-- **[AnimeVerse](#)**: A platform to explore anime universes interactively.
-- **[Cosmic Calculator](#)**: A fun project that calculates your age on different planets.
+- **[XeyPortofolio](#)**: (pre-Aplha)
+- **[XeyLabs](https://lab.xeyyzu.my.id)**: The center for all projects and technology developed by Xeyyzu
+- **[AnimeVerse](#)**: A platform to explore anime universes interactively. (coming soon)
+- **[Cosmic Calculator](#)**: A fun project that calculates your age on different planets. (coming soon)
 
 Feel free to explore the rest of my repositories for more starry ideas! ✨
 
