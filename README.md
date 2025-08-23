@@ -3,8 +3,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=XeyyzuV2%20%7C%20Bug%20Bounty%20Hunter&fontSize=48&fontAlign=50&fontAlignY=55)
 
 <p align="center">
-  <!-- Bug Bounty, HackerOne, and Security Badges -->
+  <!-- Bug Bounty, Bugcrowd, HackerOne, and Security Badges -->
   <img src="https://img.shields.io/badge/Bug%20Bounty%20Hunter-22272e?style=for-the-badge&logo=bugcrowd&logoColor=white&labelColor=212121" alt="Bug Bounty Hunter Badge"/>
+  <img src="https://img.shields.io/badge/Bugcrowd-FF6600?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd" />
   <img src="https://img.shields.io/badge/HackerOne-494949?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne" />
   <img src="https://img.shields.io/badge/Security-Researcher-30BFFF?style=for-the-badge&logo=virustotal&logoColor=white" alt="Security Researcher Badge"/>
   <br>
@@ -43,6 +44,7 @@
 - **[XeyLabs](https://lab.xeyyzu.my.id)**: The launchpad for all my tech and security experiments.
 - **[AnimeVerse](#)**: Interactive anime universe explorer. (coming soon)
 - **[Cosmic Calculator](#)**: Calculate your age on different planets! (coming soon)
+  
 
 ✨ ...and many more in my [repositories](https://github.com/XeyyzuV2?tab=repositories)!
 
