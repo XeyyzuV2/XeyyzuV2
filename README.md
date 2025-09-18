@@ -41,7 +41,7 @@
 > Explore some of my favorite projects orbiting this universe:
 
 - **[XeyPortofolio](#)**: (pre-Alpha) | My interactive developer portfolio.
-- **[XeyLabs](https://lab.xeyyzu.my.id)**: The launchpad for all my tech and security experiments.
+- **[XeyLabs](#)**: The launchpad for all my tech and security experiments. (Offline)
 - **[AnimeVerse](#)**: Interactive anime universe explorer. (coming soon)
 - **[Cosmic Calculator](#)**: Calculate your age on different planets! (coming soon)
   
@@ -60,9 +60,9 @@
 
 ## 📫 Connect with Me
 
-- 📨 **Email**: [mail@e-mail.biz.id](mailto:mail@e-mail.biz.id)
-- 🌐 **Forum**: [https://forum.html-5.me](https://forum.html-5.me)
-- 💬 *(Add your socials for more ways to connect!)*
+- 📨 **Email**: [Click me](mailto:mail@e-mail.biz.id)
+- 🌐 **Forum**: [XeyHub](#) (offline)
+- 💬 **Discord** : Xeyyzu
 
 ---
 
