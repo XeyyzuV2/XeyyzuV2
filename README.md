@@ -41,7 +41,7 @@
 > Explore some of my favorite projects orbiting this universe:
 
 ## Priority project
-- **[AHA Lang](https://github.com/ahalang-dev/aha-lang)**: Core Compiler v0.1 Release
+> **[AHA Lang](https://github.com/ahalang-dev/aha-lang)**: Core Compiler v0.1 Release
 
 - **[XeyPortofolio](#)**: (pre-Alpha) | My interactive developer portfolio.
 - **[XeyLabs](#)**: The launchpad for all my tech and security experiments. (Offline)
